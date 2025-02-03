@@ -1,0 +1,23 @@
+{
+  "name": "job-site",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinav160/job-portal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhinav160/job-portal/issues"
+  },
+  "homepage": "https://github.com/abhinav160/job-portal#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
